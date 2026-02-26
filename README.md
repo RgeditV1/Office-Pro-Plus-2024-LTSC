@@ -23,7 +23,7 @@ Visita la página oficial de Microsoft para descargar los archivos necesarios:
 
 📖 [Implementación de Office LTSC 2024 - Office | Microsoft Learn](https://learn.microsoft.com/es-es/office/ltsc/2024/deploy)
 
-o utiliza los archivos de este repositorio renombrando setup.xlr8 a setup.exe
+o utiliza los archivos de este repositorio
 
 ### Paso 2: Preparar la instalación
 
